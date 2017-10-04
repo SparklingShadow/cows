@@ -1,4 +1,4 @@
-                                            __**THE COW APP**__
+                                            #THE COW APP
 
 First use the command `bundle install` in your terminal
 
