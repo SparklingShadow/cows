@@ -1,24 +1,10 @@
-# README
+This is an was an assigment to show how the routes work in rails and how to access the console and how to start rails server. 
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+To run the app use the command in the terminal `rails s`
 
-Things you may want to cover:
+To look into the database run the command `rails c` in the terminal
 
-* Ruby version
+Once the server is running you can see the results of the work buy pasting the address `localhost:3000/cows` which will show you all of the cows that are in the database.
 
-* System dependencies
+To see the other part of the assigment you will want to use the address `localhost:3000/cows/1` this will show you the first cow that is in the database it has its name and breed.
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
