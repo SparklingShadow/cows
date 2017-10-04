@@ -1,4 +1,4 @@
-                                            #THE COW APP
+#THE COW APP
 
 First use the command `bundle install` in your terminal
 
